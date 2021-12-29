@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>Welcome to My Github<br>Selamat datang di Github</h1>
-</div>
-
 <br><div align="center">
   <a href="https://github.com/emnopal">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=emnopal&count_private=true&show_icons=true&theme=radical" />
@@ -12,9 +8,7 @@
 </div>
 
 <div align="center">
-  <h3>Also Visit my: <br><br>
-  <a href="https://kaggle.com">Kaggle</a>&emsp; <a href="https://linkedin.com">LinkedIn</a>&emsp;
-  <a href="https://twitter.com">Twitter</a></h3>
+  <h3>Also Visit my: <a href="https://kaggle.com">Kaggle</a>&emsp; <a href="https://linkedin.com">LinkedIn</a>&emsp;<a href="https://twitter.com">Twitter</a></h3>
 </div>
 
 
