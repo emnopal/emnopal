@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h3>Also Visit my: <a href="https://kaggle.com">Kaggle</a>&emsp; <a href="https://linkedin.com">LinkedIn</a>&emsp;<a href="https://twitter.com">Twitter</a></h3>
+  <h3>Also Visit my:&emsp;<a href="https://kaggle.com">Kaggle</a>&emsp;<a href="https://linkedin.com">LinkedIn</a>&emsp;<a href="https://twitter.com">Twitter</a></h3>
 </div>
 
 
