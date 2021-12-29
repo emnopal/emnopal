@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>My Github Stats</h1>
+  <h1>Welcome to My Github</h1>
+  <h1>Selamat datang di Github</h1>
 </div>
 
 <div align="center">
@@ -12,10 +13,10 @@
 </div><br>
 
 <div align="center">
-  <h1>Also Visit my: <br>
-    <b><a href="https://kaggle.com">Kaggle</a></b>&emsp;
-    <b><a href="https://linkedin.com">LinkedIn</a></b>&emsp;
-    <b><a href="https://twitter.com">Twitter</a></b>&emsp;
+  <h1>Also Visit my: <br><br>
+    <a href="https://kaggle.com">Kaggle</a>&emsp;
+    <a href="https://linkedin.com">LinkedIn</a>&emsp;
+    <a href="https://twitter.com">Twitter</a>
   </h1>
 </div>
 
