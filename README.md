@@ -9,7 +9,7 @@
   <a href="https://github.com/emnopal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnopal&layout=compact&hide=visual%20basic%20.net,pascal,matlab,m&langs_count=8&theme=radical" />
   </a>
-</div><br>
+</div>
 
 <div align="center">
   <h1>Also Visit my: <br><br>
