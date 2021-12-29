@@ -12,11 +12,11 @@
 </div><br>
 
 <div align="center">
-  <h3>Also Visit my: <br>
-    <b><a href="https://kaggle.com">Kaggle</a></b><br>
-    <b><a href="https://linkedin.com">LinkedIn</a></b><br>
-    <b><a href="https://twitter.com">Twitter</a></b><br>
-  </h3>
+  <h1>Also Visit my: <br>
+    <b><a href="https://kaggle.com">Kaggle</a></b> 
+    <b><a href="https://linkedin.com">LinkedIn</a></b> 
+    <b><a href="https://twitter.com">Twitter</a></b> 
+  </h1>
 </div>
 
 
