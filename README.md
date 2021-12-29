@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Welcome to My Github</h1>
-  <h1>Selamat datang di Github</h1>
+  <h1>Welcome to My Github<br>Selamat datang di Github</h1>
 </div>
 
 <div align="center">
