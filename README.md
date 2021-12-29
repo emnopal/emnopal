@@ -13,9 +13,9 @@
 
 <div align="center">
   <h1>Also Visit my: <br>
-    <b><a href="https://kaggle.com">Kaggle</a></b> 
-    <b><a href="https://linkedin.com">LinkedIn</a></b> 
-    <b><a href="https://twitter.com">Twitter</a></b> 
+    <b><a href="https://kaggle.com">Kaggle</a></b>&emsp;
+    <b><a href="https://linkedin.com">LinkedIn</a></b>&emsp;
+    <b><a href="https://twitter.com">Twitter</a></b>&emsp;
   </h1>
 </div>
 
