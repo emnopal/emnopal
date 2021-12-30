@@ -3,7 +3,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=emnopal&count_private=true&show_icons=true&theme=radical" />
   </a><br><br>
   <a href="https://github.com/emnopal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnopal&layout=compact&hide=pascal,tex,m&langs_count=10&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnopal&layout=compact&hide=pascal,tex,m,jupyter%20notebook,html,css&langs_count=10&theme=radical" />
   </a>
 </div>
 
