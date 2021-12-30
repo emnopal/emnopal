@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/emnopal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emnopal&count_private=true&show_icons=true&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emnopal&count_private=true&show_icons=true&theme=github_dark" />
   </a><br><br>
   <a href="https://github.com/emnopal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnopal&layout=compact&hide=pascal,m,jupyter%20notebook&langs_count=10&theme=dracula&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnopal&layout=compact&hide=pascal,m,jupyter%20notebook&langs_count=10&theme=github_dark&show_icons=true" />
   </a>
 </div>
 
