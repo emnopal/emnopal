@@ -1,9 +1,12 @@
 <div align="center">
   <a href="https://github.com/emnopal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnopal&layout=compact&langs_count=15&theme=github_dark&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnopal&layout=compact&langs_count=10&theme=github_dark&show_icons=true" />
   </a><br><br>
   <a href="https://github.com/emnopal">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=emnopal&count_private=true&show_icons=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/emnopal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=emnopal&layout=compact" />
   </a>
 </div>
 
