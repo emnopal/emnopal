@@ -6,7 +6,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=emnopal&count_private=true&show_icons=true&theme=github_dark" />
   </a>
   <a href="https://github.com/emnopal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=emnopal&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=emnopal&theme=github_dark" />
   </a>
 </div>
 
