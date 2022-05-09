@@ -7,6 +7,7 @@
   </a><br><br>
   <a href="https://github.com/emnopal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=emnopal&theme=github_dark" />
+    <p>Note: I'm new in wakatime, i have known this tools recently :p</p>
   </a>
 </div>
 
