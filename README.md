@@ -11,6 +11,7 @@
 </div>
 
 <div align="center">
+  <br>
   <a href="https://wakatime.com/@c559e2f4-357c-49fb-9f5d-84390dcc6e7b"><img src="https://wakatime.com/badge/user/c559e2f4-357c-49fb-9f5d-84390dcc6e7b.svg" alt="Total time coded since May 7 2022" /></a>
   <h3>Also Visit my:&emsp;<a href="https://www.kaggle.com/emnopal">Kaggle</a>&emsp;<a href="https://www.linkedin.com/in/muhammad-naufal-9745b2175/">LinkedIn</a></h3>
 </div>
