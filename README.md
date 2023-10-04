@@ -1,6 +1,4 @@
-<h1>View More Here: <a href="https://emnopal.github.io/">Portfolio Website</a></h1>
 
-<h1>Summary:<br/></h3>
 <div align="center">
   <a href="https://github.com/emnopal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnopal&layout=compact&langs_count=10&theme=radical&show_icons=true&count_private=true&hide=jupyter%20notebook,html,blade,tex,less,css,java,pascal,visual%20basic%20.net,matlab,hack" />
@@ -11,6 +9,10 @@
   <a href="https://wakatime.com/@emnopal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=emnopal&theme=radical&layout=compact" />
   </a>
+</div>
+
+<div align="center">
+  <h3>View More Here: <a href="https://emnopal.github.io/">Portfolio Website</a></h1>
 </div>
 
 <div align="center">
