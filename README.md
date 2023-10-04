@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://github.com/emnopal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnopal&layout=compact&langs_count=10&theme=radical&show_icons=true&count_private=true&hide=jupyter%20notebook,html,blade,tex,less,css,java,pascal,visual%20basic%20.net,matlab,hack" />
