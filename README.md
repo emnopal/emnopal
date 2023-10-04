@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <h3>View More Here: <a href="https://emnopal.github.io/">Portfolio Website</a></h1>
+  <h3>View More Here: <a href="https://emnopal.github.io/" target="_blank">Portfolio Website</a></h1>
 </div>
 
 <div align="center">
