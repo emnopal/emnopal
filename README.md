@@ -7,6 +7,9 @@
   </a><br><br>
   <a href="https://wakatime.com/@emnopal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=emnopal&theme=radical&layout=compact" />
+  </a><br><br>
+  <a href="https://leetcode.com/u/emnopal">
+    <img align="center" src="https://leetcard.jacoblin.cool/emnopal?theme=dark&ext=activity" />
   </a>
 </div>
 
